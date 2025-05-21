@@ -1,7 +1,8 @@
-Subject: Databricks case study
+**Subject: Databricks case study**
+
 Tech stack:  Python , SQL 
 
-Case Study: Building a Data Pipeline using Medallion Architecture for "ACME" Inc.
+**Case Study:** Building a Data Pipeline using Medallion Architecture for "ACME" Inc.
 
 "ACME" Inc. is a distributor of clothes and footwear, selling products across the US and internationally. They want to improve their understanding of sales and 
 margin performance through a Lakehouse architecture. You are tasked with creating a data pipeline that processes raw data into meaningful Key Performance Indicators 
