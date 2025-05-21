@@ -1,6 +1,6 @@
 **Subject: Databricks case study**
 
-Tech stack:  Python , SQL 
+#### Tech stack:  Python , SQL 
 
 **Case Study:** Building a Data Pipeline using Medallion Architecture for "ACME" Inc.
 
@@ -9,10 +9,11 @@ margin performance through a Lakehouse architecture. You are tasked with creatin
 (KPIs) using the Medallion Architecture. The goal is to focus on backend processes, from data ingestion to transformation and generating KPIs that will later be 
 utilized for Power BI reports.
 
-Objective:
+**Objective:**
 
 Develop a Sales Analytics application to track sales, margins, and other key business metrics, accessible to executives, product managers, and sales reps. This 
 solution will enable the company to:
+
 1.	Analyze sales figures and compare them year-over-year.
 2.	Measure and track sales margins.
 3.	Analyze sales data by various dimensions (e.g., Region, Country, Division, Product Line, Product Group, and Customer).
